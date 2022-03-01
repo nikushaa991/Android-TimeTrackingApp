@@ -5,8 +5,6 @@
     <string name="header_description">Description</string>
     <string name="header_time">Time</string>
     <string name="loading">Loading…</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="add_task_name_hint">Task Name</string>
     <string name="add_task_desc_hint">Description</string>
     <string name="add_task_button_text">Start Timer</string>
